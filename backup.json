@@ -1,0 +1,137 @@
+{
+  "2NQNzyf4zg1lFoRO4nBl": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Nguyễn Văn A",
+    "day of birth": 32874,
+    "id": 1,
+    "email": "user1@example.com",
+    "username": "user1"
+  },
+  "4J8Lp5v32ID99aL3cnad": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Trần Thị B",
+    "day of birth": 33636,
+    "id": 7,
+    "email": "user2@example.com",
+    "username": "user7"
+  },
+  "5yRxlzyacHHf6u8OCiXL": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Đỗ Văn E",
+    "day of birth": 35920,
+    "id": 15,
+    "email": "user5@example.com",
+    "username": "user10"
+  },
+  "7Zk3nEEG5NUHyiAtz6nh": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Nguyễn Văn A",
+    "day of birth": 32874,
+    "id": 11,
+    "email": "user1@example.com",
+    "username": "user6"
+  },
+  "EAs1SVyi9jTxnUSy7kgT": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Nguyễn Văn A",
+    "day of birth": 32874,
+    "id": 6,
+    "email": "user1@example.com",
+    "username": "user6"
+  },
+  "FvzGr346iygmb5I9GGx4": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Lê Văn C",
+    "day of birth": 34396,
+    "id": 3,
+    "email": "user3@example.com",
+    "username": "user3"
+  },
+  "Iuyk1JtmGqpYXUVnto1o": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Lê Văn C",
+    "day of birth": 34396,
+    "id": 13,
+    "email": "user3@example.com",
+    "username": "user8"
+  },
+  "Jyhb53W3BtaIV44nAGqL": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Trần Thị B",
+    "day of birth": 33636,
+    "id": 2,
+    "email": "user2@example.com",
+    "username": "user2"
+  },
+  "KbaasCEMvnsGowTqNiLi": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Phạm Thị D",
+    "day of birth": 35159,
+    "id": 4,
+    "email": "user4@example.com",
+    "username": "user4"
+  },
+  "N1umcX30lP35TEi6TD6B": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Đỗ Văn E",
+    "day of birth": 35920,
+    "id": 10,
+    "email": "user5@example.com",
+    "username": "user10"
+  },
+  "OVsUG2lQOEZ2UVBGMfjf": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Đỗ Văn E",
+    "day of birth": 35920,
+    "id": 5,
+    "email": "user5@example.com",
+    "username": "user5"
+  },
+  "m0GnYQaDVfTh2Gs4eXMv": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Trần Thị B",
+    "day of birth": 33636,
+    "id": 12,
+    "email": "user2@example.com",
+    "username": "user7"
+  },
+  "mI8iC3MZl9vvDIzTMX0R": {
+    "gender": "Nam",
+    "phone": "0123456789",
+    "name": "Lê Văn C",
+    "day of birth": 34396,
+    "id": 8,
+    "email": "user3@example.com",
+    "username": "user8"
+  },
+  "nhzsODxi8tx3d2dKaCQX": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Phạm Thị D",
+    "day of birth": 35159,
+    "id": 14,
+    "email": "user4@example.com",
+    "username": "user9"
+  },
+  "oBwsP7C07oBZ3OQOKUvH": {
+    "gender": "Nữ",
+    "phone": "0987654321",
+    "name": "Phạm Thị D",
+    "day of birth": 35159,
+    "id": 9,
+    "email": "user4@example.com",
+    "username": "user9"
+  }
+}
